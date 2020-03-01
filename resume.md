@@ -26,6 +26,7 @@ Oct 2018 - Present
     - Node.js
     - MongoDB
     - Angular, React
+    - aws, azure, gcp
 
 <!-- Projects
 -----------------
